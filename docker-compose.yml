@@ -28,7 +28,7 @@ services:
     environment:
       MYSQL_HOST: mysql
       MYSQL_USER: root
-      MYSQL_ROOT_PASSWORD: geonho1737
+      MYSQL_ROOT_PASSWORD: 비밀번호
       MYSQL_DATABASE: myapp
       MYSQL_PORT: 3306
 
